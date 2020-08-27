@@ -1,0 +1,15 @@
+.product-container{
+    display: flex;
+    border-bottom: 1px solid gray;
+}
+.name{
+    color: blue;
+}
+.product-container img{
+    margin: 0 20px 0 20px;
+}
+button{
+    /* background-color: #f0c14b; */
+    width: 140px;
+    padding: 5px;
+}

@@ -1,0 +1,9 @@
+.shop{
+    display: flex;
+   
+   
+}
+.shop-container{
+    border-right: 1px solid gray;
+    width: 75%;
+}
